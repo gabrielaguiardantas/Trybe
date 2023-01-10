@@ -1,0 +1,75 @@
+exercício 1 
+
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import App from '../App';
+
+// arquivo App.test.js pode servir de exemplo
+describe('Testando a aplicação, testando botão, e sua funcionalidade', () => {
+  test('Verifica se o botão está na tela com o texto "Adicionar"', () => {
+    render(<App />);
+    const addButton = screen.getByRole('button', { name: /adicionar/i });
+    expect(addButton).toBeInTheDocument();
+  });
+
+  test('Ao clicar no botão Adicionar a tarefa deve ser adicionada na tela', () => {
+    // Use o userEvent, para simular a digitação do usuário e o clique.
+    render(<App />);
+
+    const string = 'xbox series x';
+    const inputEl = screen.getByLabelText(/tarefa:/i);
+    // const liEl = screen.queryByText(string); A declaração desse campo buga pois esta variável vai ser lida 1 vez e não será atualizada pelo userEvent, não sendo reconhecida suas atualizações no teste.
+    const addButton = screen.getByRole('button', { name: /adicionar/i });
+
+    expect(inputEl).toBeInTheDocument(); // verifica se existe um input e se este tem uma label com o texto informado
+
+    // verificação de existência do botão e do texto já foi realizada no teste de cima
+
+    userEvent.type(inputEl, string);
+    expect(inputEl).toHaveValue(string); // verifica se a digitação simulada foi capturada pelo input (digitação funcionou no campo)
+
+    expect(screen.queryByText(string)).not.toBeInTheDocument(); // verificou se foi digitado e ainda não renderizado na tela
+    userEvent.click(addButton);
+    expect(screen.queryByText(string)).toBeInTheDocument(); // verifica se após o click foi renderizado um elemento na tela com a string digitada no campo de input.
+
+    expect(inputEl).toHaveValue(''); // verifica se após o click que renderiza o elemento com o texto digitado no input, o campo é limpo para nova digitação.
+  });
+});
+
+exercício 2
+
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import App from '../App';
+import Item from '../Item';
+
+describe('Teste do campo de input', () => {
+  test('Testando a adição de vários itens a aplicação', () => {
+    const listTodo = ['Realizar CR', 'Ler Post no Medium', 'Beber água']; // Use esse array como base para realizar os testes.
+    render(<App />); // Caso precise de uma nova query adicione no object destructuring
+    const inputEl = screen.getByLabelText(/tarefa:/i);
+    const buttonEl = screen.getByRole('button');
+
+    userEvent.type(inputEl, listTodo[0]);
+    userEvent.click(buttonEl);
+
+    userEvent.type(inputEl, listTodo[1]);
+    userEvent.click(buttonEl);
+
+    userEvent.type(inputEl, listTodo[2]);
+    userEvent.click(buttonEl);
+
+    expect(screen.queryByText(...listTodo)).toBeInTheDocument();
+  });
+});
+
+describe('Teste do componente Item', () => {
+  test('Ao receber uma string como prop ela precisa aparecer na tela', () => {
+    render(<Item content="xbox series x" />);
+
+    expect(screen.queryByText('xbox series x')).toBeInTheDocument();
+  });
+});
+

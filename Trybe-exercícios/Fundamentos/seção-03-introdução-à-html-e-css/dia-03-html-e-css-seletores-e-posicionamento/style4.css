@@ -1,0 +1,31 @@
+div:hover {
+ border-style: double;   
+ border-color: brown;
+}
+
+#id1 {
+    color: green;
+    font-style: italic;
+}
+
+#id2 {
+    color: turquoise;
+    font-style: oblique;
+}
+
+#id3 {
+    color: thistle;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#id4 {
+    color: magenta;
+    background-color: rgb(73, 73, 175);
+}
+
+#id5 {
+    color: crimson;
+    cursor: crosshair;
+    font-style: italic;
+}

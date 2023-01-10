@@ -1,0 +1,60 @@
+#ordered-list {
+    background-color: yellow;
+}
+
+.inpair-item {
+    text-transform: uppercase;
+}
+
+.pair-item {
+    color: green
+}
+
+h1, h3 {
+    color: red;
+}
+
+h1 em, h3 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.first-3-skills, .java {
+    color: blue;
+} 
+
+.java {
+    background-color: pink;
+}
+
+ul li a:hover {
+    font-weight: bold;
+}
+
+#link1:hover {
+    color: orange;
+}
+
+#link2:hover {
+    color: green;
+}
+
+#link3:hover {
+    color: black;
+}
+
+#link4:hover {
+    color: yellow;
+}
+
+#link5:hover {
+    color: green;
+}
