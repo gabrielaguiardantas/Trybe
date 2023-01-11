@@ -4,7 +4,7 @@ Projetos que desenvolvi na Trybe :
 
 - [:heavy_check_mark:] 1 - [Lessons Learned](https://github.com/gabrielaguiardantas/project-lessons-learned) 
 - [:heavy_check_mark:] 2 - [Playground Functions](https://github.com/gabrielaguiardantas/project-playground-functions)
-- [:heavy_check_mark:] 3 - Pixel Art
+- [:heavy_check_mark:] 3 - [Pixel Art](https://github.com/gabrielaguiardantas/project-pixels-art)
 - [:heavy_check_mark:] 4 - Trybewarts (em dupla - [Stariel Isaac](https://github.com/StarielIsaac))
 - [:heavy_check_mark:] 5 - Testes unitários
 - [:heavy_check_mark:] 6 - Zoo Functions
