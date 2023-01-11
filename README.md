@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [:heavy_check_mark:] 4-4: _JavaScript - Objetos e funções_
 - [:heavy_check_mark:] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [:heavy_check_mark:] 4-6: _[Projeto - Playground Functions](https://github.com/tryber/sd-t26-b-project-playground-functions/pull/18)_
+- [:heavy_check_mark:] 4-6: _[Projeto - Playground Functions](https://github.com/gabrielaguiardantas/project-playground-functions)_
 
 ##### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
