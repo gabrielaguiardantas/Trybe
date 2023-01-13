@@ -74,11 +74,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### Seção 1: Introdução ao FrontEnd e Javascript Assíncrono
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [:heavy_check_mark:] 1-1: _Ambiente de Desenvolvimento_
+- [:heavy_check_mark:] 1-2: _Javascript Assíncrono - Promises e Fetch_
+- [:heavy_check_mark:] 1-3: _Prática - Casa de Câmbio_
+- [:heavy_check_mark:] 1-4: _Async, await e testes assíncronos_
+- [:heavy_check_mark:] 1-5: _[Projeto - Shopping cart](https://github.com/gabrielaguiardantas/project-shopping-cart)_
 
 ##### Bloco 12: React
 
