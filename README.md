@@ -82,11 +82,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 1-4: _Async, await e testes assíncronos_
 - [:heavy_check_mark:] 1-5: _[Projeto - Shopping cart](https://github.com/gabrielaguiardantas/project-shopping-cart)_
 
-##### Bloco 12: React
+##### Seção 2: React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [:heavy_check_mark:] 2-1: _'Hello, World!' no React!_
+- [:heavy_check_mark:] 2-2: _Componentes React_
+- [:heavy_check_mark:] 2-3: _[Projeto - Solar System](https://github.com/gabrielaguiardantas/project-solar-system)_
 
 ##### Bloco 13: React
 
