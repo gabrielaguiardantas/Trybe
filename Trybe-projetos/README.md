@@ -12,7 +12,7 @@ Projetos que desenvolvi na Trybe :
 **FrontEnd:**
 
 - [:heavy_check_mark:] 1 - [Shopping Cart](https://github.com/gabrielaguiardantas/project-shopping-cart) (em grupo - [Fred Almeida](https://github.com/Virkkunen), [Jessica Ferreira](https://github.com/ferreirajessica), [Alysson Chiarelly](https://github.com/devalyssonchiarelly) e [Bernardo Martorano](https://github.com/bermartorano))
-- [:heavy_check_mark:] 2 - Solar System
+- [:heavy_check_mark:] 2 - [Solar System](https://github.com/gabrielaguiardantas/project-solar-system)
 - [:heavy_check_mark:] 3 - Tryunfo
 - [:heavy_check_mark:] 4 - Trybetunes
 - [:heavy_check_mark:] 5 - FrontEnd Online Store
