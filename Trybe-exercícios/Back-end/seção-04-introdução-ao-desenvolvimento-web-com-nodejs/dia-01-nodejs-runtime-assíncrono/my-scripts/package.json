@@ -1,0 +1,23 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bmi": "node bmi",
+    "simpsons-by-id": "node ./src/utils/showCharacterById", 
+    "simpsons-show-all": "node ./src/utils/showAllCharacters",
+    "simpsons-delete-chars": "node ./src/utils/deleteCharacters",
+    "simpsons-create-new-json": "node ./src/utils/createNewJson",
+    "simpsons-create-char": "node ./src/utils/createNewCharacter",
+    "simpsons-substitute-char": "node ./src/utils/substituteCharacter",
+    "fibonacci": "node ./src/utils/fibonacci"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
