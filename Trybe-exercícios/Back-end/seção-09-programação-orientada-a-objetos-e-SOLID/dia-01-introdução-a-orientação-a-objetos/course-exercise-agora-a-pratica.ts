@@ -68,7 +68,7 @@ const customerName1 = new RestaurantCustomer('Punkes');
 const OrderItem1 = new OrderItem('coxinha', 2);
 const OrderItem2 = new OrderItem('x-tudo', 10);
 const Order1 = new Order(customerName1, { itemQuantity: [4, 5], itemOrder: [OrderItem1, OrderItem2]}, 'cartão');
-// console.log(Order1.totalValueWithDiscount());
+console.log(Order1.totalValueWithDiscount());
 
 // exercício 5 e 6
 
