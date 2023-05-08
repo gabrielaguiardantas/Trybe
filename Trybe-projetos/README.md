@@ -17,4 +17,4 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 4 - [Trybetunes](https://github.com/gabrielaguiardantas/project-trybetunes)
 - [:heavy_check_mark:] 5 - [FrontEnd Online Store](https://github.com/gabrielaguiardantas/project-frontend-online-store) (em grupo - [Fred Almeida](https://github.com/Virkkunen), [Jessica Ferreira](https://github.com/ferreirajessica), [Alysson Chiarelly](https://github.com/devalyssonchiarelly) e [Bernardo Martorano](https://github.com/bermartorano))
 - [:heavy_check_mark:] 6 - [Testes em React](https://github.com/gabrielaguiardantas/project-react-testing-library)
-- [:heavy_check_mark:] 7 - Trybewallet 
+- [:heavy_check_mark:] 7 - [Trybewallet](https://github.com/gabrielaguiardantas/project-trybewallet) 
