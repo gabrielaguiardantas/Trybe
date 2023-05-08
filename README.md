@@ -42,10 +42,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 5-3: _JavaScript - Eventos_
 - [:heavy_check_mark:] 5-4: _JavaScript - Web Storage_
 - [:heavy_check_mark:] 5-5: _[Projeto - Arte com Pixels](https://github.com/gabrielaguiardantas/project-pixels-art)_
-- [ ] 5-6: _[Projeto - Meme Generator]()_    [Bônus]
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_  [Bônus]
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_    [Bônus]
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_  [Bônus]
 
 ##### Seção 6: HTML & CSS: Forms, Flexbox e Responsivo
 
@@ -88,43 +84,42 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 2-2: _Componentes React_
 - [:heavy_check_mark:] 2-3: _[Projeto - Solar System](https://github.com/gabrielaguiardantas/project-solar-system)_
 
-##### Bloco 13: React
+##### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [:heavy_check_mark:] 3-1: _Componentes com estado e eventos_
+- [:heavy_check_mark:] 3-2: _Formulários no React_
+- [:heavy_check_mark:] 3-3: _[Projeto - Tryunfo](https://github.com/gabrielaguiardantas/project-tryunfo)_
 
-##### Bloco 14: Metodologias Ágeis
+##### Seção 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [:heavy_check_mark:] 4-1: _Ciclo de vida de componentes_
+- [:heavy_check_mark:] 4-2: _React Router_
+- [:heavy_check_mark:] 4-3: _[Projeto - Trybetunes](https://github.com/gabrielaguiardantas/project-trybetunes)_
 
-##### Bloco 15: Testes em React
+##### Seção 5: Metodologias Ágeis
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [:heavy_check_mark:] 5-1: _Metodologias Ágeis_
+- [:heavy_check_mark:] 5-2: _[Projeto - Front-end Online Store](https://github.com/gabrielaguiardantas/project-frontend-online-store)_
 
-##### Bloco 16: Introdução ao Redux
+##### Seção 6: Testes automatizados com React Testing Library
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [:heavy_check_mark:] 6-1: _RTL - Primeiros passos_
+- [:heavy_check_mark:] 6-2: _RTL - Mocks e Inputs_
+- [:heavy_check_mark:] 6-3: _RTL - Testando React Router_
+- [:heavy_check_mark:] 6-4: _[Projeto - Testes em React](https://github.com/gabrielaguiardantas/project-react-testing-library)_
 
-##### Bloco 17: Projeto React
+##### Seção 7: Gerenciamento de estado com Redux
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [:heavy_check_mark:] 7-1: _Introdução ao Redux - O estado global da aplicação_
+- [:heavy_check_mark:] 7-2: _Usando o Redux no React_
+- [:heavy_check_mark:] 7-3: _Usando o Redux no React - Prática_
+- [:heavy_check_mark:] 7-4: _Usando o Redux no React - Actions Assíncronas_
+- [:heavy_check_mark:] 7-5: _Testes em React-Redux_
+- [:heavy_check_mark:] 7-6: _[Projeto - Trybewallet](https://github.com/gabrielaguiardantas/project-trybewallet)_
 
-##### Bloco 18: React & Context API
+##### Seção 8: Projeto Jogo de Trivia
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [:heavy_check_mark:] 8-1: _[Projeto - Jogo de Trivia]_
 
 ##### Bloco 19: Projeto Final de Front-end
 
