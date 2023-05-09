@@ -68,7 +68,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [:heavy_check_mark:] 8-6: _[Projeto - Zoo functions](https://github.com/gabrielaguiardantas/project-zoo-functions)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Seção 1: Introdução ao FrontEnd e Javascript Assíncrono
 
@@ -121,9 +121,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 8-1: _[Projeto - Jogo de Trivia]_
 
-##### Bloco 19: Projeto Final de Front-end
+##### Seção 9: Context API e React Hooks
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [:heavy_check_mark:] 9-1: _React Hooks - useState e useEffect_
+- [:heavy_check_mark:] 9-2: _Context API_
+- [:heavy_check_mark:] 9-3: _Custom hooks_
+- [:heavy_check_mark:] 9-4: _[Projeto - Star Wars Planets Search](https://github.com/gabrielaguiardantas/project-starwars-planets-search)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
