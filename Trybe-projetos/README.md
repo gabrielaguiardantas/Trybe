@@ -21,3 +21,10 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 8 - [Jogo de Trivia](https://github.com/gabrielaguiardantas/project-trivia) (em grupo - [Bernardo Martorano](https://github.com/bermartorano), [Felipe Gouveia](https://github.com/fgouveiase), [Pedro Henrique](https://github.com/pedrohxiv) e [Thiago Picorelli](https://github.com/thiagopicorelli)
 - [:heavy_check_mark:] 9 - [Star wars Planets Search](https://github.com/gabrielaguiardantas/project-starwars-planets-search)
 - [:heavy_check_mark:] 10 - [App de Receitas](https://github.com/gabrielaguiardantas/project-recipes-app)
+
+**BackEnd:**
+
+- [:heavy_check_mark:] 1 - [Docker Todo List](https://github.com/gabrielaguiardantas/project-docker-todo-list)
+- [:heavy_check_mark:] 2 - [All For One](https://github.com/gabrielaguiardantas/project-all-for-one)
+- [:heavy_check_mark:] 3 - [One For All](https://github.com/gabrielaguiardantas/project-one-for-all)
+- [:heavy_check_mark:] 4 - [Talker Manager](https://github.com/gabrielaguiardantas/project-talker-manager)
