@@ -130,33 +130,36 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Seção 1: Docker - Utilizando Containers
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [:heavy_check_mark:] 1-1: _Utilizando Containers - Docker_
+- [:heavy_check_mark:] 1-2: _Manipulando Imagens no Docker_
+- [:heavy_check_mark:] 1-3: _Orquestrando Containers com Docker Compose_
+- [:heavy_check_mark:] 1-4: _[Projeto - Docker Todo-List](https://github.com/gabrielaguiardantas/project-docker-todo-list))_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Seção 2: Introdução à SQL
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [:heavy_check_mark:] 1-1: _Banco de dados SQL_
+- [:heavy_check_mark:] 1-2: _Encontrando dados em um banco de dados_
+- [:heavy_check_mark:] 1-3: _Filtrando dados de forma específica_
+- [:heavy_check_mark:] 1-4: _Manipulando tabelas_
+- [:heavy_check_mark:] 1-5: _[Projeto - All For One](https://github.com/gabrielaguiardantas/project-all-for-one)_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Seção 3: Funções SQL, JOINs e Normalização
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [:heavy_check_mark:] 1-1: _Funções mais usadas no SQL_
+- [:heavy_check_mark:] 1-2: _Descomplicando JOINs_
+- [:heavy_check_mark:] 1-3: _Transformando ideias em um modelo de banco de dados_
+- [:heavy_check_mark:] 1-4: _[Projeto - One For All](https://github.com/gabrielaguiardantas/project-one-for-all)_
 
-##### Bloco 23: Introdução - NoSQL
+##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [:heavy_check_mark:] 1-1: _Node.js: Runtime Assíncrono_
+- [:heavy_check_mark:] 1-2: _Node.js: API REST com Express_
+- [:heavy_check_mark:] 1-3: _Node.js: Testes de Integração_
+- [:heavy_check_mark:] 1-4: _Node.js: Express e Middlewares_
+- [:heavy_check_mark:] 1-5: _Node.js: Express e MySQL_
+- [:heavy_check_mark:] 1-6: _[Projeto - Talker Manager](https://github.com/gabrielaguiardantas/project-talker-manager)_
 
 ##### Bloco 24: Updates
 
