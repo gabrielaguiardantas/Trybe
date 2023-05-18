@@ -128,7 +128,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 9-3: _Custom hooks_
 - [:heavy_check_mark:] 9-4: _[Projeto - Star Wars Planets Search](https://github.com/gabrielaguiardantas/project-starwars-planets-search)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :heavy_check_mark:
 
 ##### Seção 1: Docker - Utilizando Containers
 
@@ -168,64 +168,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 5-3: _Arquitetura de software: Camada Controller_
 - [:heavy_check_mark:] 5-4: _[Projeto - Store Manager](https://github.com/gabrielaguiardantas/project-store-manager)_
 
-##### Bloco 25: Aggregation Framework
+##### Seção 6: Node.js: ORM e Autenticação
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [:heavy_check_mark:] 6-1: _ORM - Interface de aplicação com o banco de dados_
+- [:heavy_check_mark:] 6-2: _ORM - Associations 1:1 e 1:N_
+- [:heavy_check_mark:] 6-3: _ORM - Associations N:N e Transactions_
+- [:heavy_check_mark:] 6-4: _JWT - (JSON Web Token)_
+- [:heavy_check_mark:] 6-5: _[Projeto - Blogs API](https://github.com/gabrielaguiardantas/project-blogs-api)_
 
-##### Bloco 26: Intro - NodeJS
+##### Seção 7: Masterclass: Implantação de Aplicações na Nuvem
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [:heavy_check_mark:] 7-1: _Infraestrutura: Deploy com Railway_
 
-##### Bloco 27: NodeJS
+##### Seção 8: Introdução a Typescript
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [:heavy_check_mark:] 8-1: _Introdução ao TypeScript_
+- [:heavy_check_mark:] 8-2: _Tipagem Estática e Generics_
+- [:heavy_check_mark:] 8-3: _Express com Typescript_
+- [:heavy_check_mark:] 8-4: _[Projeto - Trybesmith]()_
 
-##### Bloco 28: NodeJS
+##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [:heavy_check_mark:] 9-1: _Introdução à Orientação a Objetos_
+- [:heavy_check_mark:] 9-2: _Herança e Composição_
+- [:heavy_check_mark:] 9-3: _Polimorfismo_
+- [:heavy_check_mark:] 9-4: _SOLID - Introdução e Princípios S, O e D_
+- [:heavy_check_mark:] 9-5: _SOLID - Princípios L e I_
+- [:heavy_check_mark:] 9-6: _[Projeto - Trybers and Dragons]()_
 
-##### Bloco 29: NodeJS
+##### Seção 10: Projeto - TFC - Trybe Futebol Clube
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
-
-##### Bloco 30: Introdução - Deploy
-
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
-
-##### Bloco 31: Projeto
-
-- [ ] 31-1: _[Projeto - Trybeer]()_
-
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [:heavy_check_mark:] 10-1: _[Projeto - Trybe Futebol Clube]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
