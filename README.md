@@ -194,7 +194,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 9-3: _Polimorfismo_
 - [:heavy_check_mark:] 9-4: _SOLID - Introdução e Princípios S, O e D_
 - [:heavy_check_mark:] 9-5: _SOLID - Princípios L e I_
-- [:heavy_check_mark:] 9-6: _[Projeto - Trybers and Dragons]()_
+- [:heavy_check_mark:] 9-6: _[Projeto - Trybers and Dragons](https://github.com/gabrielaguiardantas/project-trybers-and-dragons)_
 
 ##### Seção 10: Projeto - TFC - Trybe Futebol Clube
 
