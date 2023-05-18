@@ -28,4 +28,4 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 2 - [All For One](https://github.com/gabrielaguiardantas/project-all-for-one)
 - [:heavy_check_mark:] 3 - [One For All](https://github.com/gabrielaguiardantas/project-one-for-all)
 - [:heavy_check_mark:] 4 - [Talker Manager](https://github.com/gabrielaguiardantas/project-talker-manager)
-- [:heavy check mark:] 5 - [Store Manager](https://github.com/gabrielaguiardantas/project-store-manager)
+- [:heavy_check_mark:] 5 - [Store Manager](https://github.com/gabrielaguiardantas/project-store-manager)
