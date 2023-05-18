@@ -161,12 +161,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 1-5: _Node.js: Express e MySQL_
 - [:heavy_check_mark:] 1-6: _[Projeto - Talker Manager](https://github.com/gabrielaguiardantas/project-talker-manager)_
 
-##### Bloco 24: Updates
+##### Seção 5: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [:heavy_check_mark:] 5-1: _Arquitetura de software: Camada Model_
+- [:heavy_check_mark:] 5-2: _Arquitetura de software: Camada Service_
+- [:heavy_check_mark:] 5-3: _Arquitetura de software: Camada Controller_
+- [:heavy_check_mark:] 5-4: _[Projeto - Store Manager](https://github.com/gabrielaguiardantas/project-store-manager)_
 
 ##### Bloco 25: Aggregation Framework
 
