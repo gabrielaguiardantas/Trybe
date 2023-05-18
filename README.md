@@ -198,7 +198,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 10: Projeto - TFC - Trybe Futebol Clube
 
-- [:heavy_check_mark:] 10-1: _[Projeto - Trybe Futebol Clube]()_
+- [:heavy_check_mark:] 10-1: _[Projeto - Trybe Futebol Clube](https://github.com/gabrielaguiardantas/project-trybe-futebol-clube)_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
