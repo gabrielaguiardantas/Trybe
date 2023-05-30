@@ -20,7 +20,7 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 7 - [Trybewallet](https://github.com/gabrielaguiardantas/project-trybewallet)
 - [:heavy_check_mark:] 8 - [Jogo de Trivia](https://github.com/gabrielaguiardantas/project-trivia) (em grupo - [Bernardo Martorano](https://github.com/bermartorano), [Felipe Gouveia](https://github.com/fgouveiase), [Pedro Henrique](https://github.com/pedrohxiv) e [Thiago Picorelli](https://github.com/thiagopicorelli)
 - [:heavy_check_mark:] 9 - [Star wars Planets Search](https://github.com/gabrielaguiardantas/project-starwars-planets-search)
-- [:heavy_check_mark:] 10 - [App de Receitas](https://github.com/gabrielaguiardantas/project-recipes-app)
+- [:heavy_check_mark:] 10 - [App de Receitas](https://github.com/gabrielaguiardantas/project-recipes-app) (em grupo - [Carlos Vieira](https://github.com/carlospsvieira), [Gabriela Muniz](https://github.com/GabiNamu), [Gabriel Guimarães](https://github.com/guimaraesgp-dev), [Juliano Fonseca](https://github.com/julianocfonseca) e [Thomas Matisi](https://github.com/cybervulthor).)
 
 **BackEnd:**
 
