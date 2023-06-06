@@ -33,3 +33,7 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 7 - [Trybesmith](https://github.com/gabrielaguiardantas/project-trybesmith)
 - [:heavy_check_mark:] 8 - [Trybers and Dragons](https://github.com/gabrielaguiardantas/project-trybers-and-dragons)
 - [:heavy_check_mark:] 9 - [Trybe Futebol Clube](https://github.com/gabrielaguiardantas/project-trybe-futebol-clube)
+
+**Ciência da Computação:**
+
+- [:heavy_check_mark:] 1 - [Algorithms](https://github.com/gabrielaguiardantas/project-algorithms)
