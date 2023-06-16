@@ -215,4 +215,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 2-3: _Algoritmos de ordenação e busca_
 - [:heavy_check_mark:] 2-4: _[Projeto - Algoritmos](https://github.com/gabrielaguiardantas/project-algorithms)_
 
+##### Seção 3: Estrutura de Dados I: Listas Lineares
+
+- [:heavy_check_mark:] 3-1: _P.O.O. em Python_
+- [:heavy_check_mark:] 3-2: _Arrays_
+- [:heavy_check_mark:] 3-3: _Nó e Listas Encadeadas_
+- [:heavy_check_mark:] 3-4: _Pilhas e Filas_
+- [:heavy_check_mark:] 3-5: _[Projeto - TING](https://github.com/gabrielaguiardantas/project-TING)_
+
+
 # [...]
