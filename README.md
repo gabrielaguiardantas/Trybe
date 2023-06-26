@@ -200,7 +200,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 10-1: _[Projeto - Trybe Futebol Clube](https://github.com/gabrielaguiardantas/project-trybe-futebol-clube)_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :heavy_check_mark:
 
 ##### Seção 1: Introdução a Python
 
