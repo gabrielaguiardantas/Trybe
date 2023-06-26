@@ -223,5 +223,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 3-4: _Pilhas e Filas_
 - [:heavy_check_mark:] 3-5: _[Projeto - TING](https://github.com/gabrielaguiardantas/project-TING)_
 
+##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
 
-# [...]
+- [:heavy_check_mark:] 4-1: _Hashmaps e Dicts_
+- [:heavy_check_mark:] 4-2: _Set_
+- [:heavy_check_mark:] 4-3: _[Projeto - Restaurant Orders](https://github.com/gabrielaguiardantas/project-restaurant-orders)
