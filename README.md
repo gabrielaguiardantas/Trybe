@@ -227,4 +227,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 4-1: _Hashmaps e Dicts_
 - [:heavy_check_mark:] 4-2: _Set_
-- [:heavy_check_mark:] 4-3: _[Projeto - Restaurant Orders](https://github.com/gabrielaguiardantas/project-restaurant-orders)
+- [:heavy_check_mark:] 4-3: _[Projeto - Restaurant Orders](https://github.com/gabrielaguiardantas/project-restaurant-orders)_
+
+## Certificação Python ⏳:
+
+##### Seção 1: Debug com Python
+
+- [:heavy_check_mark:] 1-1: _Estratégias de Debug com Python_
+- [:heavy_check_mark:] 1-2: _Automatizando o bug hunting com Pytest_
+- [:heavy_check_mark:] 1-3: _Avançando nos testes em Python_
+- [:heavy_check_mark:] 1-3: _[Projeto - Pro-Filer](https://github.com/gabrielaguiardantas/project-pro-filer)_
