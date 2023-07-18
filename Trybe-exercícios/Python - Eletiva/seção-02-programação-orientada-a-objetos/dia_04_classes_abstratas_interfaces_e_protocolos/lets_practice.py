@@ -195,7 +195,8 @@ class Main2:
 # class Correios(Entregavel):
 #     def entregar(self, cliente: str, endereco: str) -> None:
 #         print(
-#             f"O pacote foi entregue com sucesso para o cliente {cliente.nome}"
+#             f"O pacote foi entregue com sucesso
+# para o cliente {cliente.nome}"
 #         )
 #         print(
 #             f"Endereço: {endereco.rua}, {endereco.numero}, "
