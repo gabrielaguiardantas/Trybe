@@ -43,3 +43,4 @@ Projetos que desenvolvi na Trybe :
 **Certificação Python:**
 
 - [:heavy_check_mark:] 1 - [Pro-Filer](https://github.com/gabrielaguiardantas/project-pro-filer)
+- [:heavy_check_mark:] 2 - [Inventory Report](https://github.com/gabrielaguiardantas/project-inventory-report)
