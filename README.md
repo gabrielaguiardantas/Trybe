@@ -237,3 +237,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 1-2: _Automatizando o bug hunting com Pytest_
 - [:heavy_check_mark:] 1-3: _Avançando nos testes em Python_
 - [:heavy_check_mark:] 1-3: _[Projeto - Pro-Filer](https://github.com/gabrielaguiardantas/project-pro-filer)_
+
+##### Seção 2: Programação Orientada a Objetos
+
+- [:heavy_check_mark:] 2-1: _POO em Python_
+- [:heavy_check_mark:] 2-2: _Pilares da POO_
+- [:heavy_check_mark:] 2-3: _Classes abstratas, interfaces e protocolos_
+- [:heavy_check_mark:] 2-4: _[Projeto - Inventory Report](https://github.com/gabrielaguiardantas/project-inventory-report)_
