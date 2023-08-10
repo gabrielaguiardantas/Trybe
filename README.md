@@ -244,3 +244,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 2-2: _Pilares da POO_
 - [:heavy_check_mark:] 2-3: _Classes abstratas, interfaces e protocolos_
 - [:heavy_check_mark:] 2-4: _[Projeto - Inventory Report](https://github.com/gabrielaguiardantas/project-inventory-report)_
+
+##### Seção 3: Raspagem de dados
+
+- [:heavy_check_mark:] 3-1: _Raspagem de dados_
+- [:heavy_check_mark:] 3-2: _Outras ferramentas de raspagem de dados_
+- [:heavy_check_mark:] 3-3: _MongoDB e Crawlers_
+- [:heavy_check_mark:] 3-4: _[Projeto - Tech News](https://github.com/gabrielaguiardantas/project-tech-news)_
+
