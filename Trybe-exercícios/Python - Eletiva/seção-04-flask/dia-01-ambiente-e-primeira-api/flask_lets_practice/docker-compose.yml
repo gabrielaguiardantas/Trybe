@@ -1,0 +1,36 @@
+# docker-compose
+version: '3.4'
+
+services:
+  flask-lets-practice:
+    container_name: flask-lets-practice
+    build:
+      # A configuração do 'args' possibilita o nosso IF funcionar no Dockerfile
+      args:
+        - FLASK_ENV=dev
+      context: .
+    volumes:
+      - ./src:/src
+    ports:
+      - 8000:8000
+    depends_on:
+      - mongo-db
+    networks:
+      - flask_net
+    environment:
+      - MONGO_URL=mongodb://mongo-db:27017
+      - FLASK_ENV=dev
+    restart: always
+
+  mongo-db:
+    image: mongo:5.0.7
+    container_name: mongo-db
+    restart: always
+    ports:
+      - 27017:27017
+    networks:
+      - flask_net
+
+networks:
+  flask_net:
+    driver: bridge
