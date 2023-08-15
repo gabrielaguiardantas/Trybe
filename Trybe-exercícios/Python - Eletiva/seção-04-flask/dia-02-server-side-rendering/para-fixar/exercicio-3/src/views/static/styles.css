@@ -1,0 +1,18 @@
+:root {
+    background-color: blanchedalmond;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+ul, li {
+    border: 1px solid blue;
+    padding: 8px;
+    text-align: left;
+}
+ul {
+    background-color: #c01a1a;
+}
+form {
+    margin-bottom: 20px;
+}
