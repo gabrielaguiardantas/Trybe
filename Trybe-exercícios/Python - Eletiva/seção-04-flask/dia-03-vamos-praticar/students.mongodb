@@ -1,0 +1,15 @@
+use('db_student');
+db.students.insertMany([
+    {
+        name: 'Chiquinho',
+        registration_number: 1,
+    },
+    {
+        name: 'José',
+        registration_number: 2,
+    },
+    {
+        name: 'Alfredo',
+        registration_number: 3,
+    }
+])
