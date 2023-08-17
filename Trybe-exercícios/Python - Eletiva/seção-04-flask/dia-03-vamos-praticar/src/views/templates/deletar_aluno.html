@@ -1,0 +1,16 @@
+<!-- excluir_student.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Excluir student</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Excluir student</h1>
+    <p>Deseja realmente excluir o aluno "{{ student.nome }}"?</p>
+    <form action="/delete_student/{{ student.registration_number }}" method="POST">
+        <button type="submit">Excluir</button>
+    </form>
+    <a href="/student">Cancelar</a>
+</body>
+</html>
