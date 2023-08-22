@@ -252,3 +252,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 3-3: _MongoDB e Crawlers_
 - [:heavy_check_mark:] 3-4: _[Projeto - Tech News](https://github.com/gabrielaguiardantas/project-tech-news)_
 
+##### Seção 4: Flask
+
+- [:heavy_check_mark:] 4-1: _Ambiente e primeira API_
+- [:heavy_check_mark:] 4-2: _Server Side Rendering_
+- [:heavy_check_mark:] 4-3: _Aprofundando em Templates com Flask_
+- [:heavy_check_mark:] 4-4: _API e Testes em Flask_
+- [:heavy_check_mark:] 4-4: _[Projeto - Traduzo](https://github.com/gabrielaguiardantas/project-traduzo)_
