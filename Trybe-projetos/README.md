@@ -45,3 +45,4 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 1 - [Pro-Filer](https://github.com/gabrielaguiardantas/project-pro-filer)
 - [:heavy_check_mark:] 2 - [Inventory Report](https://github.com/gabrielaguiardantas/project-inventory-report)
 - [:heavy_check_mark:] 3 - [Tech News](https://github.com/gabrielaguiardantas/project-tech-news)
+- [:heavy_check_mark:] 4 - [Traduzo](https://github.com/gabrielaguiardantas/project-traduzo)
