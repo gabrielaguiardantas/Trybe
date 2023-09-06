@@ -1,0 +1,21 @@
+<!-- playlists/templates/home.html -->
+
+{% extends 'base.html' %}
+
+{% block title %}
+    Home Page
+{% endblock %}
+
+{% block content %}
+    {% for music in musics %}
+        <p>{{music}}</p>
+    {% endfor %}
+
+    <a href="{% url 'musics-page' %}">Criar nova música</a>
+
+    {% for singer in singers %}
+        <p>{{singer}}</p>
+    {% endfor %}
+
+    <a href="{% url 'singers-page' %}">Criar novo cantor</a>
+{% endblock %}
