@@ -266,4 +266,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 5-2: _Templates do Django_
 - [:heavy_check_mark:] 5-3: _Formulários e Relacionamento de modelos_
 - [:heavy_check_mark:] 5-4: _Django Rest Framework_
-- [:heavy_check_mark:] 5-5: _[Projeto - Spotnews](https://github.com/gabrielaguiardantas/project-spotnews) 
+- [:heavy_check_mark:] 5-5: _[Projeto - Spotnews](https://github.com/gabrielaguiardantas/project-spotnews)_ 
