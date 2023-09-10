@@ -258,4 +258,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 4-2: _Server Side Rendering_
 - [:heavy_check_mark:] 4-3: _Aprofundando em Templates com Flask_
 - [:heavy_check_mark:] 4-4: _API e Testes em Flask_
-- [:heavy_check_mark:] 4-4: _[Projeto - Traduzo](https://github.com/gabrielaguiardantas/project-traduzo)_
+- [:heavy_check_mark:] 4-5: _[Projeto - Traduzo](https://github.com/gabrielaguiardantas/project-traduzo)_
+
+##### Seção 5: Django I
+
+- [:heavy_check_mark:] 5-1: _Ambiente de banco de dados e ORM_
+- [:heavy_check_mark:] 5-2: _Templates do Django_
+- [:heavy_check_mark:] 5-3: _Formulários e Relacionamento de modelos_
+- [:heavy_check_mark:] 5-4: _Django Rest Framework_
+- [:heavy_check_mark:] 5-5: _[Projeto - Spotnews](https://github.com/gabrielaguiardantas/project-spotnews) 
