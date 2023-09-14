@@ -47,3 +47,4 @@ Projetos que desenvolvi na Trybe :
 - [:heavy_check_mark:] 3 - [Tech News](https://github.com/gabrielaguiardantas/project-tech-news)
 - [:heavy_check_mark:] 4 - [Traduzo](https://github.com/gabrielaguiardantas/project-traduzo)
 - [✔️] 5 - [Spotnews](https://github.com/gabrielaguiardantas/project-spotnews)
+- [✔️] 6 - [Super Portfólio](https://github.com/gabrielaguiardantas/project-super-portfolio)
