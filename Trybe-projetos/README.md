@@ -37,7 +37,7 @@ Projetos que desenvolvi na Trybe :
 **Ciência da Computação:**
 
 - [:heavy_check_mark:] 1 - [Algorithms](https://github.com/gabrielaguiardantas/project-algorithms)
-- [:heavy_check_mark:] 2 - [TING](https://github.com/gabrielaguiardantas/project-TING))
+- [:heavy_check_mark:] 2 - [TING](https://github.com/gabrielaguiardantas/project-TING)
 - [:heavy_check_mark:] 3 - [Restaurant Orders](https://github.com/gabrielaguiardantas/project-restaurant-orders)
 
 **Certificação Python:**
