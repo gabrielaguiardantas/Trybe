@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Gabriel Aguiar Dantas](https://www.linkedin.com/in/gabrielaguiardantas/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Gabriel Aguiar Dantas](https://www.linkedin.com/in/gabrielaguiardantas/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket: . 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -119,7 +119,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 8: Projeto Jogo de Trivia
 
-- [:heavy_check_mark:] 8-1: _[Projeto - Jogo de Trivia]_
+- [:heavy_check_mark:] 8-1: _[Projeto - Jogo de Trivia](https://github.com/gabrielaguiardantas/project-trivia)_
 
 ##### Seção 9: Context API e React Hooks
 
