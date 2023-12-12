@@ -128,6 +128,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 9-3: _Custom hooks_
 - [:heavy_check_mark:] 9-4: _[Projeto - Star Wars Planets Search](https://github.com/gabrielaguiardantas/project-starwars-planets-search)_
 
+- ##### Seção 10: Projeto App de Receitas
+
+- [:heavy_check_mark:] 10-1: _[Projeto - App de Receitas](https://github.com/gabrielaguiardantas/project-recipes-app)_
+
 ## Desenvolvimento Back-end :heavy_check_mark:
 
 ##### Seção 1: Docker - Utilizando Containers
